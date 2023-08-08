@@ -1,10 +1,6 @@
 # SSWMNetwork
 Source code of paper "SSWMNet: Solving The Problem Of Speech Separation While Wearing a Mask".
 
-# Model
-
-![](C:\Users\mfm\Desktop\b300047216e2fa4ca6821184425ed0c.png)
-
 # Dataset
 
 ## SSWM Dataset
